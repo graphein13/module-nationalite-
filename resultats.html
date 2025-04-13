@@ -38,6 +38,7 @@
         <div class="resultats" style="font-size: 1.2em; margin-top: 20px; line-height: 2.5em;">
           <p class="prcisions-sur-lorganisation">L'enfant a eu 8 ans le : <span id="age8"></span></p>
           <p class="prcisions-sur-lorganisation">L'enfant a eu 11 ans le : <span id="age11"></span></p>
+          <p class="prcisions-sur-lorganisation">L'enfant aura 18 ans le : <span id="age18"></span></p>
           <p class="prcisions-sur-lorganisation">Et aujourd'hui (le <span id="currentDate"></span>) la personne a : <span id="currentAge"></span></p>
         </div>
         <button onclick="retour()" style="padding: 10px 20px; margin-top: 30px; background-color: #000091; color: white; border: none; cursor: pointer;">Retour</button>
@@ -135,6 +136,11 @@
           let age11Date = new Date(birthDate);
           age11Date.setFullYear(age11Date.getFullYear() + 11);
           document.getElementById("age11").innerText = formatDate(age11Date);
+          
+          // Calcul de la date des 18 ans
+          let age18Date = new Date(birthDate);
+          age18Date.setFullYear(age18Date.getFullYear() + 18);
+          document.getElementById("age18").innerText = formatDate(age18Date);
 
           // Calcul de l'âge actuel avec mois et jours si nécessaire
           let today = new Date();
