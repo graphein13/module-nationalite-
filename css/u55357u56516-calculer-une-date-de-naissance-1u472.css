@@ -1,0 +1,432 @@
+/* screen - u55357u56516-calculer-une-date-de-naissance-1u472 */
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 {
+  align-items: flex-start;
+  background-color: var(--light--background--elevation--raised-grey);
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  position: relative;
+  width: 1440px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ds-ppn-sections-en-tte-et-navigation {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .en-tte-desktop {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .contenant-technique-en-tte {
+  align-items: center;
+  background-color: var(--light--background--elevation--raised-grey);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 40px;
+  padding: 12px 120px 12px 108px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-fond {
+  background-color: var(--light--background--elevation--raised-grey);
+  box-shadow: 0px 12px 32px -8px #0000241f;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-bloc-marque {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 0px 12px 12px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-marianne {
+  height: 12px;
+  position: relative;
+  width: 33px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .intitul-officiel {
+  color: var(--light--text--title-grey);
+  font-family: var(--font-family-marianne-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0.06px;
+  line-height: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .devise {
+  height: 22px;
+  position: relative;
+  width: 32px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .intitul-du-site {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 40px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .texte {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .nom-du-service-site {
+  align-self: stretch;
+  color: var(--light--text--title-grey);
+  font-weight: 700;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .prcisions-sur-lorganisation {
+  align-self: stretch;
+  color: var(--light--text--default-grey);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .contenu-de-la-page {
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ds-ppn-sections-pied-de-page-complet {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .pied-de-page-complet {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--light--background--elevation--raised-grey);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .contenant-technique {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .sparateur {
+  background-color: var(--light--border--plain-blue-france);
+  height: 2px;
+  width: 1440px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .contenu {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 20px 120px 20px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-bloc-marque-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  padding: 20px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-marianne-1 {
+  height: 20px;
+  position: relative;
+  width: 55px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .intitul-officiel-1 {
+  color: var(--light--text--title-grey);
+  font-family: var(--font-family-marianne-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0.10px;
+  line-height: 21px;
+  position: relative;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .devise-1 {
+  height: 37px;
+  position: relative;
+  width: 52px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .description {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .flex-container-i4426 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 588px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .text0-i4426515618 {
+  align-self: stretch;
+  color: var(--light--text--default-grey);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .text1-i4426515618 {
+  align-self: stretch;
+  color: var(--light--text--default-grey);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-liens {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .legifrancegouvfr {
+  color: var(--light--text--default-grey);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-1 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .gouvernementfr {
+  color: var(--light--text--default-grey);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .service-publicfr {
+  color: var(--light--text--default-grey);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .datagouvfr {
+  color: var(--light--text--default-grey);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-sparateur-1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .contenu-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 16px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .mentions {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .plan-du-site {
+  color: var(--light--text--mention-grey);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .ne-pas-changer-sparateur {
+  flex: 0 0 auto;
+  height: 16px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .accessibilit {
+  color: var(--light--text--mention-grey);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .mentions-lgales {
+  color: var(--light--text--mention-grey);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .donnes-personnelles {
+  color: var(--light--text--mention-grey);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .gestion-des-cookies {
+  color: var(--light--text--mention-grey);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .licence {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .licence-1 {
+  color: var(--light--text--mention-grey);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .span1 {
+  text-decoration: underline;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .lien {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 2px;
+  position: relative;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .soulignement {
+  height: 1px;
+  left: 765px;
+  position: absolute;
+  top: 17px;
+  width: 17px;
+}
+
+.u55357u56516-calculer-une-date-de-naissance-1u472 .lien-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  position: relative;
+}

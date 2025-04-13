@@ -1,0 +1,47 @@
+:root { 
+  --black: #000000;
+  --light--background--elevation--raised-grey: #ffffff;
+  --light--border--plain-blue-france: #000091;
+  --light--text--default-grey: #3a3a3a;
+  --light--text--mention-grey: #666666;
+  --light--text--title-grey: #161616;
+  --lightbackgrounddefault-grey: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-xl: 20px;
+ 
+  --font-family-marianne-bold: "Marianne-Bold", Helvetica;
+  --font-family-marianne-regular: "Marianne-Regular", Helvetica;
+}
+.x1titresh6---xxsdesktop {
+  font-family: var(--font-family-marianne-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.x2corps-de-textesm---texte-dtaildesktop--mobile---regular {
+  font-family: var(--font-family-marianne-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.x2corps-de-textesm---texte-dtaildesktop--mobile---bold {
+  font-family: var(--font-family-marianne-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.x2corps-de-textexs---texte-mentiondesktop--mobile---regular {
+  font-family: var(--font-family-marianne-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
